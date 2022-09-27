@@ -5,7 +5,7 @@
 # Additional
 # source:      https://stackoverflow.com/questions/33311153/python-extracting-and-saving-video-frames
 # Created:     09/08/2022
-# Copyright:   (c) caleb 2022
+# Copyright:   (c) guray 2022
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
