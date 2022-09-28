@@ -1,4 +1,4 @@
-# object-position-estimation-from-uav-video-
+# Object Position Estimation from Drone Video
 
 This repository is created for object position estimation from drone video.
 
