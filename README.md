@@ -31,6 +31,16 @@ That means the intrinsic parameters of the camera are not known. Images are subj
 In this case, the camera should be calibrated. 
 After that, we would have extrinsic and intrinsic parameters of the camera and we are able to compute between the real-world coordinates and the image coordinates of the selected objects in the scene.
 
+
+## Installation
+
+
+Install the following Python dependencies (with `pip install`):
+
+    matplotlib
+    opencv-python
+   
+
 ### Video2frame.py 
 
 It basically extract and save frames from a video.
