@@ -33,11 +33,9 @@ After that, we would have extrinsic and intrinsic parameters of the camera and w
 
 #### Video2frame.py 
 
-It basically extract frames from a video.
+It basically extract and save frames from a video.
+The function requires two arguments.
 
-Some basic Git commands are:
 ```
-git status
-git add
-git commit
+video_to_frames(input_loc,output_location)
 ```
