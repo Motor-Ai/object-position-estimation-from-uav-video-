@@ -49,3 +49,8 @@ The function requires two arguments.
 ```
 video_to_frames(input_loc,output_location)
 ```
+### collinearity_backpropagation_equations.py
+
+This script is under development and have not tried because of missing parameters. 
+It contains collinearity equations to calculate pixel coordinate or Real World Coordinates
+Also there is a backpropagation function estimating World Coordinate of an image coordinates.
